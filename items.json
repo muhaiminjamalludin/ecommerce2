@@ -1,0 +1,42 @@
+{
+  "shirt": [
+    {
+      "id": 1,
+      "name": "BLACK TEE SHIRT",
+      "price": 1299,
+      "imgName": "black_shirt.webp"
+    },
+    {
+      "id": 2,
+      "name": "ORANGE TEE SHIRT",
+      "price": 1499,
+      "imgName": "orange_shirt.webp"
+    },
+    {
+      "id": 3,
+      "name": "BLUE TEE SHIRT",
+      "price": 999,
+      "imgName": "blue_shirt.webp"
+    },
+    {
+      "id": 4,
+      "name": "YELLOW TEE SHIRT",
+      "price": 1999,
+      "imgName": "yellow_shirt.webp"
+    }
+  ],
+  "jacket": [
+    {
+      "id": 5,
+      "name": "PURPLE JACKET",
+      "price": 1999,
+      "imgName": "purple_jacket.webp"
+    },
+    {
+      "id": 6,
+      "name": "BLUE JACKET",
+      "price": 699,
+      "imgName": "blue_jacket.webp"
+    }
+  ]
+}
